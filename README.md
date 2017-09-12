@@ -7,6 +7,6 @@ I am at 102PF
 T
 > Github
 
-[**Intranet**] (intranet.justice.gov.uk)
+**[Intranet]** (intranet.justice.gov.uk)
 
 :Suspect:
